@@ -1,4 +1,4 @@
 # Leeson-8
-homework
-1 day monday
-2 day tuesday
+homework 
+month contais 4 weeks
+and year contains 12 months
